@@ -106,10 +106,10 @@ Alternative platforms: Render, Railway, Heroku
 ## 📞 Support
 
 - **Issues**: [GitHub Issues](https://github.com/divyanshsharma2003/ToneShift-Model/issues)
-- **Email**: divyanshsharma2003@gmail.com
+- **Email**: divyanshsharma9911@gmail.com
 
 ---
 
-**Made with ❤️ by [Divyansh Sharma]([https://github.com/divyanshsharma2003](https://www.linkedin.com/in/divyansh-sharma-b4793026b/))**
+**Made with ❤️ by [Divyansh Sharma](https://www.linkedin.com/in/divyansh-sharma-b4793026b/)**
 
 *Transform your communication, one tone at a time.*
